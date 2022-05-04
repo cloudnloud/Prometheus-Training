@@ -1,0 +1,19 @@
+Installation 
+
+
+1. Download prometheus package from prometheus.io site
+  Prometheus-2.17.1.linu-amd64.targ.gz
+
+2. Extract the package 
+   # tar -xvf Prometheus-2.17.1.linu-amd64.targ.gz
+
+3. Enter into the direcotory 
+   # cd Prometheus-2.17.1.linu-amd64
+
+4. start the prometheus service 
+   #./prometheus
+
+5. Access the prometheus page
+   # http://192.168.0.101:9090/graph
+
+             
