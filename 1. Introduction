@@ -96,4 +96,3 @@ email, slack.
 
 **HTTP Server:-**
 HTTP server fetch the metrics from TSDB and push the collected metrics to the dashboard.
-
